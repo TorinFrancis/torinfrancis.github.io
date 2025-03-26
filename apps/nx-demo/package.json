@@ -1,0 +1,11 @@
+{
+	"name": "@torin/nx-demo",
+	"version": "0.0.1",
+	"private": true,
+	"nx": {
+		"name": "nx-demo"
+	},
+	"devDependencies": {
+		"jsdom": "26.0.0"
+	}
+}
