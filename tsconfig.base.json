@@ -1,0 +1,28 @@
+{
+	"compileOnSave": false,
+	"compilerOptions": {
+		"baseUrl": ".",
+
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"target": "ESNext",
+		"allowJs": false,
+		"resolveJsonModule": true,
+		"moduleDetection": "force",
+		"isolatedModules": true,
+		"verbatimModuleSyntax": true,
+
+		"strict": true,
+		"noUncheckedIndexedAccess": true,
+		"noImplicitOverride": true,
+
+		"module": "preserve",
+
+		"composite": true,
+		"emitDeclarationOnly": true,
+		"declarationMap": true,
+
+		"disableSizeLimit": true,
+		"erasableSyntaxOnly": true
+	}
+}
